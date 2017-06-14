@@ -1,3 +1,3 @@
 # hello-world
-#My Name is Joe
-#testing Github
+My Name is Joe
+just testing Github tutorials
